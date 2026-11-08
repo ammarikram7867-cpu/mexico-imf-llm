@@ -1,0 +1,74 @@
+[
+  {
+    "field": "gdp_growth_forecast_pct",
+    "value": 1.0,
+    "period": "2025 projection",
+    "pdf_page": 32,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "judge": "CORRECT",
+    "judge_reason": "The source passage explicitly lists the GDP growth for 2025 (the fifth column of the projection years) as 1.0.",
+    "hand_check": true,
+    "hand_note": "Table 1 real GDP 1.0 for 2025 (proj.); p.45 '1 percent in 2025'; 2026 is 1.5"
+  },
+  {
+    "field": "headline_inflation_rate_pct",
+    "value": 3.7,
+    "period": "2025 projection",
+    "pdf_page": 32,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "judge": "CORRECT",
+    "judge_reason": "The source passage shows Consumer prices (end-of-period) for 2025 (the fifth column in the series) as 3.7.",
+    "hand_check": true,
+    "hand_note": "Table 1 consumer prices, end of period, 3.7 for 2025 (proj.); 2024 was 4.2"
+  },
+  {
+    "field": "central_bank_policy_rate_pct",
+    "value": 7.5,
+    "period": "2025 projection",
+    "pdf_page": 32,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "judge": "CORRECT",
+    "judge_reason": "The source explicitly states the monetary policy rate for 2025 (the fifth data column) is 7.50.",
+    "hand_check": true,
+    "hand_note": "Table 1 monetary policy rate 7.50 for 2025; 2024 was 10.00"
+  },
+  {
+    "field": "non_performing_loan_ratio",
+    "value": 2.1,
+    "period": "June 2025",
+    "pdf_page": 37,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "judge": "CORRECT",
+    "judge_reason": "Based on the table headers and data columns, the 7th column corresponds to 2025 (Latest data available - June). The value for 'Nonperforming loans to total gross loans' in this column is 2.1.",
+    "hand_check": true,
+    "hand_note": "Table 5 NPL to gross loans 2.1, June 2025 (also Table 6, p.38)"
+  },
+  {
+    "field": "unemployment_rate_pct",
+    "value": 2.9,
+    "period": "2025 projection",
+    "pdf_page": 32,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "judge": "CORRECT",
+    "judge_reason": "The source passage gives the National unemployment rate (annual average) for 2025 as 2.9 (the fifth value in the series).",
+    "hand_check": true,
+    "hand_note": "Table 1 national unemployment 2.9 for 2025 (proj.); 2024 was 2.7"
+  },
+  {
+    "field": "tier_1_capital_ratio",
+    "value": 17.9,
+    "period": "June 2025",
+    "pdf_page": 37,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "judge": "CORRECT",
+    "judge_reason": "Based on the table columns in the source passage, the Regulatory Tier 1 capital to risk-weighted assets for the '2025' column (latest data available in June) is 17.9.",
+    "hand_check": true,
+    "hand_note": "Table 5 Tier 1 capital to RWA 17.9, June 2025; p.17 gives 17.9 for the 2025 request"
+  }
+]

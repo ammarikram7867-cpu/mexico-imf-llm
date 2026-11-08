@@ -1,0 +1,662 @@
+{
+  "time_series_long": [
+    {
+      "year": 2021,
+      "series": "Real GDP Growth",
+      "value": 6.0,
+      "projected": false
+    },
+    {
+      "year": 2022,
+      "series": "Real GDP Growth",
+      "value": 3.7,
+      "projected": false
+    },
+    {
+      "year": 2023,
+      "series": "Real GDP Growth",
+      "value": 3.4,
+      "projected": false
+    },
+    {
+      "year": 2024,
+      "series": "Real GDP Growth",
+      "value": 1.4,
+      "projected": false
+    },
+    {
+      "year": 2025,
+      "series": "Real GDP Growth",
+      "value": 1.0,
+      "projected": true
+    },
+    {
+      "year": 2026,
+      "series": "Real GDP Growth",
+      "value": 1.5,
+      "projected": true
+    },
+    {
+      "year": 2027,
+      "series": "Real GDP Growth",
+      "value": 2.0,
+      "projected": true
+    },
+    {
+      "year": 2028,
+      "series": "Real GDP Growth",
+      "value": 2.1,
+      "projected": true
+    },
+    {
+      "year": 2029,
+      "series": "Real GDP Growth",
+      "value": 2.1,
+      "projected": true
+    },
+    {
+      "year": 2030,
+      "series": "Real GDP Growth",
+      "value": 2.1,
+      "projected": true
+    },
+    {
+      "year": 2021,
+      "series": "Headline Inflation",
+      "value": 7.4,
+      "projected": false
+    },
+    {
+      "year": 2022,
+      "series": "Headline Inflation",
+      "value": 7.8,
+      "projected": false
+    },
+    {
+      "year": 2023,
+      "series": "Headline Inflation",
+      "value": 4.7,
+      "projected": false
+    },
+    {
+      "year": 2024,
+      "series": "Headline Inflation",
+      "value": 4.2,
+      "projected": false
+    },
+    {
+      "year": 2025,
+      "series": "Headline Inflation",
+      "value": 3.7,
+      "projected": true
+    },
+    {
+      "year": 2026,
+      "series": "Headline Inflation",
+      "value": 3.0,
+      "projected": true
+    },
+    {
+      "year": 2027,
+      "series": "Headline Inflation",
+      "value": 3.0,
+      "projected": true
+    },
+    {
+      "year": 2028,
+      "series": "Headline Inflation",
+      "value": 3.0,
+      "projected": true
+    },
+    {
+      "year": 2029,
+      "series": "Headline Inflation",
+      "value": 3.0,
+      "projected": true
+    },
+    {
+      "year": 2030,
+      "series": "Headline Inflation",
+      "value": 3.0,
+      "projected": true
+    },
+    {
+      "year": 2021,
+      "series": "National Unemployment Rate",
+      "value": 4.1,
+      "projected": false
+    },
+    {
+      "year": 2022,
+      "series": "National Unemployment Rate",
+      "value": 3.3,
+      "projected": false
+    },
+    {
+      "year": 2023,
+      "series": "National Unemployment Rate",
+      "value": 2.8,
+      "projected": false
+    },
+    {
+      "year": 2024,
+      "series": "National Unemployment Rate",
+      "value": 2.7,
+      "projected": false
+    },
+    {
+      "year": 2025,
+      "series": "National Unemployment Rate",
+      "value": 2.9,
+      "projected": true
+    },
+    {
+      "year": 2026,
+      "series": "National Unemployment Rate",
+      "value": 3.1,
+      "projected": true
+    },
+    {
+      "year": 2027,
+      "series": "National Unemployment Rate",
+      "value": 3.0,
+      "projected": true
+    },
+    {
+      "year": 2028,
+      "series": "National Unemployment Rate",
+      "value": 3.0,
+      "projected": true
+    },
+    {
+      "year": 2029,
+      "series": "National Unemployment Rate",
+      "value": 3.0,
+      "projected": true
+    },
+    {
+      "year": 2030,
+      "series": "National Unemployment Rate",
+      "value": 3.0,
+      "projected": true
+    },
+    {
+      "year": 2021,
+      "series": "Credit Growth",
+      "value": 4.2,
+      "projected": false
+    },
+    {
+      "year": 2022,
+      "series": "Credit Growth",
+      "value": 10.9,
+      "projected": false
+    },
+    {
+      "year": 2023,
+      "series": "Credit Growth",
+      "value": 8.7,
+      "projected": false
+    },
+    {
+      "year": 2024,
+      "series": "Credit Growth",
+      "value": 11.3,
+      "projected": false
+    },
+    {
+      "year": 2025,
+      "series": "Credit Growth",
+      "value": 4.0,
+      "projected": true
+    },
+    {
+      "year": 2026,
+      "series": "Credit Growth",
+      "value": 5.0,
+      "projected": true
+    },
+    {
+      "year": 2027,
+      "series": "Credit Growth",
+      "value": 5.5,
+      "projected": true
+    },
+    {
+      "year": 2028,
+      "series": "Credit Growth",
+      "value": 5.6,
+      "projected": true
+    },
+    {
+      "year": 2029,
+      "series": "Credit Growth",
+      "value": 5.6,
+      "projected": true
+    },
+    {
+      "year": 2030,
+      "series": "Credit Growth",
+      "value": 5.6,
+      "projected": true
+    },
+    {
+      "year": 2021,
+      "series": "Monetary Policy Rate",
+      "value": 5.5,
+      "projected": false
+    },
+    {
+      "year": 2022,
+      "series": "Monetary Policy Rate",
+      "value": 10.5,
+      "projected": false
+    },
+    {
+      "year": 2023,
+      "series": "Monetary Policy Rate",
+      "value": 11.25,
+      "projected": false
+    },
+    {
+      "year": 2024,
+      "series": "Monetary Policy Rate",
+      "value": 10.0,
+      "projected": false
+    },
+    {
+      "year": 2025,
+      "series": "Monetary Policy Rate",
+      "value": 7.5,
+      "projected": true
+    },
+    {
+      "year": 2026,
+      "series": "Monetary Policy Rate",
+      "value": 6.0,
+      "projected": true
+    },
+    {
+      "year": 2027,
+      "series": "Monetary Policy Rate",
+      "value": 6.0,
+      "projected": true
+    },
+    {
+      "year": 2028,
+      "series": "Monetary Policy Rate",
+      "value": 6.0,
+      "projected": true
+    },
+    {
+      "year": 2029,
+      "series": "Monetary Policy Rate",
+      "value": 6.0,
+      "projected": true
+    },
+    {
+      "year": 2030,
+      "series": "Monetary Policy Rate",
+      "value": 6.0,
+      "projected": true
+    },
+    {
+      "year": 2021,
+      "series": "Overall Fiscal Balance",
+      "value": -3.7,
+      "projected": false
+    },
+    {
+      "year": 2022,
+      "series": "Overall Fiscal Balance",
+      "value": -4.3,
+      "projected": false
+    },
+    {
+      "year": 2023,
+      "series": "Overall Fiscal Balance",
+      "value": -4.3,
+      "projected": false
+    },
+    {
+      "year": 2024,
+      "series": "Overall Fiscal Balance",
+      "value": -5.7,
+      "projected": false
+    },
+    {
+      "year": 2025,
+      "series": "Overall Fiscal Balance",
+      "value": -4.3,
+      "projected": true
+    },
+    {
+      "year": 2026,
+      "series": "Overall Fiscal Balance",
+      "value": -4.1,
+      "projected": true
+    },
+    {
+      "year": 2027,
+      "series": "Overall Fiscal Balance",
+      "value": -3.5,
+      "projected": true
+    },
+    {
+      "year": 2028,
+      "series": "Overall Fiscal Balance",
+      "value": -3.0,
+      "projected": true
+    },
+    {
+      "year": 2029,
+      "series": "Overall Fiscal Balance",
+      "value": -3.0,
+      "projected": true
+    },
+    {
+      "year": 2030,
+      "series": "Overall Fiscal Balance",
+      "value": -3.0,
+      "projected": true
+    },
+    {
+      "year": 2021,
+      "series": "Gross Public Sector Debt",
+      "value": 56.7,
+      "projected": false
+    },
+    {
+      "year": 2022,
+      "series": "Gross Public Sector Debt",
+      "value": 53.8,
+      "projected": false
+    },
+    {
+      "year": 2023,
+      "series": "Gross Public Sector Debt",
+      "value": 52.6,
+      "projected": false
+    },
+    {
+      "year": 2024,
+      "series": "Gross Public Sector Debt",
+      "value": 58.3,
+      "projected": false
+    },
+    {
+      "year": 2025,
+      "series": "Gross Public Sector Debt",
+      "value": 58.9,
+      "projected": true
+    },
+    {
+      "year": 2026,
+      "series": "Gross Public Sector Debt",
+      "value": 59.9,
+      "projected": true
+    },
+    {
+      "year": 2027,
+      "series": "Gross Public Sector Debt",
+      "value": 60.7,
+      "projected": true
+    },
+    {
+      "year": 2028,
+      "series": "Gross Public Sector Debt",
+      "value": 61.0,
+      "projected": true
+    },
+    {
+      "year": 2029,
+      "series": "Gross Public Sector Debt",
+      "value": 61.2,
+      "projected": true
+    },
+    {
+      "year": 2030,
+      "series": "Gross Public Sector Debt",
+      "value": 61.5,
+      "projected": true
+    },
+    {
+      "year": 2019,
+      "series": "Regulatory Capital Ratio",
+      "value": 16.0,
+      "projected": false
+    },
+    {
+      "year": 2020,
+      "series": "Regulatory Capital Ratio",
+      "value": 17.7,
+      "projected": false
+    },
+    {
+      "year": 2021,
+      "series": "Regulatory Capital Ratio",
+      "value": 19.5,
+      "projected": false
+    },
+    {
+      "year": 2022,
+      "series": "Regulatory Capital Ratio",
+      "value": 19.0,
+      "projected": false
+    },
+    {
+      "year": 2023,
+      "series": "Regulatory Capital Ratio",
+      "value": 18.8,
+      "projected": false
+    },
+    {
+      "year": 2024,
+      "series": "Regulatory Capital Ratio",
+      "value": 19.1,
+      "projected": false
+    },
+    {
+      "year": 2025,
+      "series": "Regulatory Capital Ratio",
+      "value": 20.0,
+      "projected": false
+    },
+    {
+      "year": 2019,
+      "series": "Nonperforming Loans Ratio",
+      "value": 2.2,
+      "projected": false
+    },
+    {
+      "year": 2020,
+      "series": "Nonperforming Loans Ratio",
+      "value": 2.6,
+      "projected": false
+    },
+    {
+      "year": 2021,
+      "series": "Nonperforming Loans Ratio",
+      "value": 2.0,
+      "projected": false
+    },
+    {
+      "year": 2022,
+      "series": "Nonperforming Loans Ratio",
+      "value": 2.1,
+      "projected": false
+    },
+    {
+      "year": 2023,
+      "series": "Nonperforming Loans Ratio",
+      "value": 2.1,
+      "projected": false
+    },
+    {
+      "year": 2024,
+      "series": "Nonperforming Loans Ratio",
+      "value": 2.0,
+      "projected": false
+    },
+    {
+      "year": 2025,
+      "series": "Nonperforming Loans Ratio",
+      "value": 2.1,
+      "projected": false
+    }
+  ],
+  "themes_long": [
+    {
+      "theme": "Interest Rates & Credit",
+      "method": "Lexicon (share of hits)",
+      "share": 0.28169014084507044
+    },
+    {
+      "theme": "Sovereign Debt",
+      "method": "Lexicon (share of hits)",
+      "share": 0.23943661971830985
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "method": "Lexicon (share of hits)",
+      "share": 0.16901408450704225
+    },
+    {
+      "theme": "Inflation & Prices",
+      "method": "Lexicon (share of hits)",
+      "share": 0.15211267605633802
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "method": "Lexicon (share of hits)",
+      "share": 0.12112676056338029
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "method": "Lexicon (share of hits)",
+      "share": 0.030985915492957747
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "method": "Lexicon (share of hits)",
+      "share": 0.005633802816901409
+    },
+    {
+      "theme": "Interest Rates & Credit",
+      "method": "LLM (share of chunks)",
+      "share": 0.12
+    },
+    {
+      "theme": "Sovereign Debt",
+      "method": "LLM (share of chunks)",
+      "share": 0.42
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "method": "LLM (share of chunks)",
+      "share": 0.12
+    },
+    {
+      "theme": "Inflation & Prices",
+      "method": "LLM (share of chunks)",
+      "share": 0.2
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "method": "LLM (share of chunks)",
+      "share": 0.1
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "method": "LLM (share of chunks)",
+      "share": 0.02
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "method": "LLM (share of chunks)",
+      "share": 0.0
+    }
+  ],
+  "diagnostics_long": [
+    {
+      "setting": "generic",
+      "metric": "ind_accuracy",
+      "score": 0.5
+    },
+    {
+      "setting": "persona",
+      "metric": "ind_accuracy",
+      "score": 0.78
+    },
+    {
+      "setting": "strict",
+      "metric": "ind_accuracy",
+      "score": 1.0
+    },
+    {
+      "setting": "pipeline",
+      "metric": "ind_accuracy",
+      "score": 1.0
+    },
+    {
+      "setting": "generic",
+      "metric": "ind_judge_correct",
+      "score": 0.33
+    },
+    {
+      "setting": "persona",
+      "metric": "ind_judge_correct",
+      "score": 0.5
+    },
+    {
+      "setting": "strict",
+      "metric": "ind_judge_correct",
+      "score": 1.0
+    },
+    {
+      "setting": "pipeline",
+      "metric": "ind_judge_correct",
+      "score": 1.0
+    },
+    {
+      "setting": "generic",
+      "metric": "rag_fact_recall",
+      "score": 0.81
+    },
+    {
+      "setting": "persona",
+      "metric": "rag_fact_recall",
+      "score": 0.81
+    },
+    {
+      "setting": "strict",
+      "metric": "rag_fact_recall",
+      "score": 0.81
+    },
+    {
+      "setting": "pipeline",
+      "metric": "rag_fact_recall",
+      "score": 0.75
+    },
+    {
+      "setting": "generic",
+      "metric": "stable",
+      "score": 1.0
+    },
+    {
+      "setting": "persona",
+      "metric": "stable",
+      "score": 0.5
+    },
+    {
+      "setting": "strict",
+      "metric": "stable",
+      "score": 1.0
+    },
+    {
+      "setting": "pipeline",
+      "metric": "stable",
+      "score": 1.0
+    }
+  ]
+}

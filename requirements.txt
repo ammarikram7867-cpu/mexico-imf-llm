@@ -1,0 +1,14 @@
+# Versions of the recorded Google Colab run (3 Nov 2026). Colab ships most of these; the notebook installs
+# pypdf, faiss-cpu and pytesseract itself, plus the tesseract-ocr system package (apt).
+pypdf==6.21.4
+faiss-cpu==1.15.1
+pytesseract==0.3.13
+sentence-transformers==5.7.0
+transformers==5.22.0
+pandas==2.2.3
+numpy==2.4.6
+matplotlib==3.10.0
+seaborn==0.13.2
+pydantic==2.14.1
+openai==2.54.0          # colab backend (Colab's model proxy speaks the OpenAI API)
+google-genai==2.12.1    # gemini_api backend, used for the last seven judge calls on 4 Nov

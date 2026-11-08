@@ -1,0 +1,47 @@
+{
+  "by_theme": [
+    {
+      "theme": "Interest Rates & Credit",
+      "lexicon_hits": 100,
+      "per_1000_words": 8.7,
+      "share_of_chunks_llm": 0.12
+    },
+    {
+      "theme": "Sovereign Debt",
+      "lexicon_hits": 85,
+      "per_1000_words": 7.4,
+      "share_of_chunks_llm": 0.42
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "lexicon_hits": 60,
+      "per_1000_words": 5.2,
+      "share_of_chunks_llm": 0.12
+    },
+    {
+      "theme": "Inflation & Prices",
+      "lexicon_hits": 54,
+      "per_1000_words": 4.7,
+      "share_of_chunks_llm": 0.2
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "lexicon_hits": 43,
+      "per_1000_words": 3.7,
+      "share_of_chunks_llm": 0.1
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "lexicon_hits": 11,
+      "per_1000_words": 1.0,
+      "share_of_chunks_llm": 0.02
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "lexicon_hits": 2,
+      "per_1000_words": 0.2,
+      "share_of_chunks_llm": 0.0
+    }
+  ],
+  "spearman_lexicon_vs_llm": 0.792824967172092
+}

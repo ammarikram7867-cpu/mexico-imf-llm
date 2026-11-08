@@ -1,0 +1,364 @@
+[
+  {
+    "sid": "S01",
+    "title": "Press release",
+    "pages": [
+      3,
+      4
+    ],
+    "summary": "The IMF approved a successor two-year Flexible Credit Line arrangement for Mexico, treated as precautionary. Access is SDR 17.8254 billion (about US$24 billion, equivalent to 200 percent of quota), reduced from SDR 26.7381 billion (about US$35 billion) in November 2023. While economic activity remains soft and trade-related external tail risks have risen, policy advice calls for more ambitious fiscal consolidation to prevent public debt drifts, further monetary easing once inflation is clearly on path to the 3 percent target, closing infrastructure gaps, and strengthening the rule of law.",
+    "words": 88,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      5,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "none"
+  },
+  {
+    "sid": "S02",
+    "title": "Staff report: executive summary",
+    "pages": [
+      5
+    ],
+    "summary": "Staff supports Mexico's request for a new two-year precautionary Flexible Credit Line arrangement and cancellation of its existing one, as Mexico continues meeting qualification criteria. The authorities request SDR 17.8254 billion (200 percent of quota) to succeed the arrangement approved on November 15, 2023 for SDR 26.7381 billion (300 percent of quota). Rising external downside risks stem from U.S. tariffs, USMCA review uncertainty, a U.S. slowdown, and global risk aversion, while authorities remain committed to maintaining very strong policy frameworks to ensure economic, fiscal, and financial stability.",
+    "words": 87,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      5,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "none"
+  },
+  {
+    "sid": "S03",
+    "title": "Context",
+    "pages": [
+      8
+    ],
+    "summary": "Mexican authorities are requesting a successor two-year FCL arrangement with a further reduction in access. Mexico has had ten consecutive FCL arrangements since 2009, with access gradually reduced since the November 2017 arrangement. Under the current arrangement approved in November 2023, access is 300 percent of quota, which authorities request reducing to 200 percent of quota. This arrangement serves as a buffer against external tail risks while global growth slows and faces downside risks, particularly from escalating protectionist measures and prolonged policy uncertainty.",
+    "words": 83,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      5,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "none"
+  },
+  {
+    "sid": "S04",
+    "title": "Developments and outlook",
+    "pages": [
+      8,
+      9
+    ],
+    "summary": "Economic activity has been soft since mid-2024 amid capacity constraints, fiscal unwinding, and trade headwinds. In response to waning inflationary pressures, the central bank cut the policy rate by 375 bps since early-2024. Gross public debt rose to around 58 percent of GDP at end-2024 following a 2024 deficit of 5.7 percent of GDP, with the 2025 deficit projected at 4.3 percent of GDP. Risks include Pemex debt pressures, U.S. tariffs, and elevated core inflation; the text provides no explicit policy advice.",
+    "words": 82,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      4,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "Include a brief mention of the financial sector's soundness to make the summary fully comprehensive."
+  },
+  {
+    "sid": "S05",
+    "title": "Outlook and risks",
+    "pages": [
+      9,
+      10,
+      11
+    ],
+    "summary": "Growth is expected to accelerate modestly in 2026 while inflation converges to target. Activity is projected to expand by 1 percent in 2025, accelerate to 1.5 percent in 2026, and return to its long-term average by 2027, with inflation reaching target by the second half of 2026. Growth risks are broadly balanced. Under the External Economic Stress Index, baseline risks remain comparable to past reviews, but downside scenarios project higher risks and deteriorating stress in 2026 from U.S. shocks, tariffs, and financial tightening. The text provides no policy advice.",
+    "words": 89,
+    "under_limit": true,
+    "revised": true,
+    "first_scores": [
+      5,
+      3,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "none"
+  },
+  {
+    "sid": "S06",
+    "title": "Views on policies",
+    "pages": [
+      11,
+      12,
+      13
+    ],
+    "summary": "Mexico maintains very strong institutional and policy frameworks, but more ambitious, front-loaded fiscal consolidation is advisable. The 2025 consolidation lowers the deficit to 4.3 percent of GDP from 5.7 percent in 2024, yet debt reaches 61.5 percent of GDP by 2030, risking further increases from shocks. Staff advises permanent measures of around 1½ percent of GDP, a binding debt anchor, and an independent fiscal council. Additionally, following 375 bps in rate cuts, further monetary easing should await clearer signs of convergence toward the 3 percent headline inflation target.",
+    "words": 88,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      4,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "Include the source's main points on financial sector initiatives and structural challenges like infrastructure, crime, and the rule of law to make the summary fully complete."
+  },
+  {
+    "sid": "S07",
+    "title": "Review of FCL qualification",
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "summary": "Mexico continues to meet all qualification criteria for an FCL arrangement. Supporting this, gross international reserves reached US$249 billion by end-August 2025 (averaging about 130 percent of the ARA metric), public flows accounted for only 21 percent of capital flows, external bond issuances and loans reached close to 830 percent of quota, and the banking capital adequacy ratio stands at 20 percent. With gross public debt projected to reach 61.5 percent of GDP by 2030 from 58.3 in 2024, staff prefers a more front-loaded and ambitious consolidation path.",
+    "words": 88,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      4,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "The summary captures the main point and key data well but omits the source's discussion on inflation, data transparency, and significant caveats regarding institutional weaknesses (crime, corruption, and rule of law)."
+  },
+  {
+    "sid": "S08",
+    "title": "Access considerations",
+    "pages": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "summary": "Staff considers FCL access of 200 percent of quota (around US$24.4 billion) justified under a plausible tail risk scenario. In this adverse scenario, a US$67.8 billion financing gap arises. Mexico would draw down about US$43½ billion in reserves, keeping them above 100 percent of the ARA metric, leaving a residual US$24.4 billion gap covered by the FCL. Amid risks from U.S. tariffs, trade tensions, and lower remittances, staff advises temporary fiscal loosening with medium-term consolidation, while weighing policy rate cuts against inflation risks.",
+    "words": 83,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      5,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "none"
+  },
+  {
+    "sid": "S09",
+    "title": "Impact on Fund finances, risks, and safeguards",
+    "pages": [
+      22,
+      23
+    ],
+    "summary": "The proposed FCL arrangement has a net positive impact on Fund liquidity, and Mexico’s capacity to repay remains strong. Net Forward Commitment Capacity increases by SDR 8.91 billion (5.5 percent) under proposed access of SDR 17.8254 billion. If fully disbursed in 2025, public external debt peaks at 21.4 percent of GDP and debt service at 7.6 percent of GDP. Fund financial risks include credit concentration to WHD and potential credit outstanding of around 69 percent of precautionary balances, mitigated by precautionary treatment and Mexico’s adequate buffers.",
+    "words": 86,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      5,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "none"
+  },
+  {
+    "sid": "S10",
+    "title": "Staff appraisal",
+    "pages": [
+      23
+    ],
+    "summary": "Staff supports Mexico’s proposed FCL arrangement as the country meets all qualification criteria and demonstrates stability. In the 2025 Article IV consultation completed on October 23, 2025, staff assessed proposed access at 200 percent of quota as appropriate given increased buffers. For risks, trade-related risks have risen since the 2024 mid-term review, though partly offset by lower external financial risks and manageable risks to the Fund. The authorities intend to maintain very strong macroeconomic policies and continue treating the arrangement as precautionary.",
+    "words": 82,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      4,
+      5,
+      4
+    ],
+    "first_unsupported": [
+      "The 2025 Article IV consultation assessed the proposed access at 200 percent of quota as appropriate."
+    ],
+    "consistency": 4,
+    "completeness": 5,
+    "factual_alignment": 4,
+    "unsupported": [
+      "The 2025 Article IV consultation assessed the proposed access at 200 percent of quota as appropriate."
+    ],
+    "judge_note": "Fix the misattribution by separating the 2025 Article IV consultation's acknowledgment of stability from the current staff appraisal's assessment that the 200 percent quota access is appropriate."
+  },
+  {
+    "sid": "S29",
+    "title": "Appendix I. Written Communication",
+    "pages": [
+      42,
+      43
+    ],
+    "summary": "Mexico requests a successor 24-month Flexible Credit Line arrangement to insure against external tail risks, canceling its current arrangement. Requested access is 200 percent of quota (SDR 17.8254 billion), replacing 300 percent of quota (SDR 26.7381 billion). Public sector borrowing requirements are projected at 4.3 percent of GDP in 2025, 4.1 percent in 2026, and 3.0 percent by 2028. Risks include a sharper U.S. slowdown, U.S. tariffs, and tighter global financial conditions. Authorities commit to gradual monetary easing, a flexible exchange rate, and Plan Mexico reforms.",
+    "words": 86,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      5,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "none"
+  },
+  {
+    "sid": "S30",
+    "title": "Introduction",
+    "pages": [
+      45
+    ],
+    "summary": "Access under Mexico's proposed 24-month Flexible Credit Line (FCL) arrangement represents a further reduction, continuing a gradual decline in access under recent arrangements. Access would be SDR 17.8254 billion (200 percent of quota), which authorities intend to treat as precautionary. This follows previous levels of SDR 62.39 billion (700 percent of quota) initially approved in November 2017, and SDR 26.74 billion (300 percent of quota) approved in November 2023 and maintained in October 2024. The text does not mention any risks or policy advice.",
+    "words": 84,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      4,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "Include the stated purpose of the document (assessing the impact on the Fund's finances and liquidity position) and remove the unnecessary meta-commentary at the end."
+  },
+  {
+    "sid": "S31",
+    "title": "Background",
+    "pages": [
+      45
+    ],
+    "summary": "Mexico's very strong macroeconomic policy frameworks and external buffers, complemented by the precautionary FCL arrangement, continue to anchor market confidence. Growth is projected to slow to 1 percent in 2025. Gross international reserves stood at US$232 billion (12.4 percent of GDP) at end-2024, adequate at 135 percent of the ARA metric and 310 percent of short-term debt, rising to US$249 billion by end-August 2025. Risks include domestic policy restraint, shifting U.S. trade policies, and elevated global uncertainty. The text provides no policy advice.",
+    "words": 83,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      4,
+      4,
+      4
+    ],
+    "first_unsupported": [
+      "The summary lists domestic policy restraint and shifting U.S. trade policies as 'risks', whereas the source explicitly states they are the reasons reflecting the projected growth slowdown to 1 percent."
+    ],
+    "consistency": 4,
+    "completeness": 4,
+    "factual_alignment": 4,
+    "unsupported": [
+      "The summary lists domestic policy restraint and shifting U.S. trade policies as 'risks', whereas the source explicitly states they are the reasons reflecting the projected growth slowdown to 1 percent."
+    ],
+    "judge_note": "Rephrase the final sentence to accurately reflect that domestic policy restraint and U.S. trade policies are current causes of the growth slowdown rather than 'risks', and briefly mention the core inflation outlook to improve completeness."
+  },
+  {
+    "sid": "S33",
+    "title": "The new flexible credit line arrangement: impact on the Fund's finances and liquidity position",
+    "pages": [
+      47,
+      48,
+      50,
+      51,
+      52
+    ],
+    "summary": "The proposed FCL arrangement is the Fund's largest current undrawn commitment in nominal terms but moderate relative to Mexico's quota, with manageable debt impacts. The SDR 17.8254 billion commitment represents 200 percent of quota. Under a 2025 downside scenario with full disbursement, external debt peaks at 32.1 percent of GDP, and Fund credit reaches 1.6 percent of GDP and 11.8 percent of gross international reserves. A full drawing risks reducing Fund liquidity by excluding Mexico from the Financial Transactions Plan. The text contains no policy advice.",
+    "words": 86,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      4,
+      4
+    ],
+    "first_unsupported": [
+      "The text contains no policy advice."
+    ],
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 4,
+    "unsupported": [
+      "The text contains no policy advice."
+    ],
+    "judge_note": "Remove the meta-statement about policy advice, and consider briefly mentioning the impact on the Fund's regional concentration and precautionary balances."
+  },
+  {
+    "sid": "S35",
+    "title": "Assessment",
+    "pages": [
+      52
+    ],
+    "summary": "The proposed FCL arrangement would have a net positive impact on the Fund's liquidity position and reduce credit commitments. If fully drawn, GRA credit exposure to Mexico would represent about 16 percent of the Fund's outstanding credit and about 69 percent of precautionary balances, marking the largest single purchase in Fund history. Risks include weak governance, pervasive informality, and a lack of access to finance, while a more ambitious and front-loaded fiscal consolidation is needed to put public debt on a downward path over the medium term.",
+    "words": 87,
+    "under_limit": true,
+    "revised": false,
+    "first_scores": [
+      5,
+      4,
+      5
+    ],
+    "first_unsupported": [],
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsupported": [],
+    "judge_note": "Include the mitigating factors, such as Mexico's intention to treat the arrangement as precautionary and its strong capacity to repay, to fully reflect the source's risk assessment."
+  }
+]

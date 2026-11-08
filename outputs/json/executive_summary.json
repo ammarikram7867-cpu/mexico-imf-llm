@@ -1,0 +1,64 @@
+{
+  "bullets": [
+    {
+      "text": "Economic growth is projected to slow to 1 percent in 2025 before accelerating to 1.5 percent in 2026, while inflation converges to the 3 percent target by the second half of 2026.",
+      "sections": [
+        "S04",
+        "S05"
+      ],
+      "numbers_not_in_report": []
+    },
+    {
+      "text": "After cutting the policy rate by 375 bps since early-2024, the central bank is advised that further monetary easing should await clearer signs of convergence toward the 3 percent headline inflation target.",
+      "sections": [
+        "S01",
+        "S04",
+        "S06"
+      ],
+      "numbers_not_in_report": []
+    },
+    {
+      "text": "Gross public debt reached around 58 percent of GDP at end-2024 and is projected to hit 61.5 percent by 2030, with staff advising front-loaded fiscal consolidation amid Pemex debt pressures.",
+      "sections": [
+        "S04",
+        "S06",
+        "S07"
+      ],
+      "numbers_not_in_report": []
+    },
+    {
+      "text": "The banking system maintains strong capital buffers, with the regulatory capital adequacy ratio standing at 20.0 percent as of June 2025 and nonperforming loans at 2.1 percent of total gross loans.",
+      "sections": [
+        "S07",
+        "Table 5"
+      ],
+      "numbers_not_in_report": []
+    },
+    {
+      "text": "Authorities requested a successor two-year precautionary Flexible Credit Line with reduced access of SDR 17.8254 billion, supported by gross international reserves reaching US$249 billion by end-August 2025.",
+      "sections": [
+        "S01",
+        "S02",
+        "S03",
+        "S07"
+      ],
+      "numbers_not_in_report": []
+    },
+    {
+      "text": "Key downside risks include U.S. tariffs, USMCA review uncertainty, a sharper U.S. slowdown, tighter global financial conditions, Pemex debt pressures, and elevated core inflation.",
+      "sections": [
+        "S02",
+        "S04",
+        "S29"
+      ],
+      "numbers_not_in_report": []
+    }
+  ],
+  "judge": {
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "note": "none"
+  }
+}

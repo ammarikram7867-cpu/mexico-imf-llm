@@ -1,0 +1,1284 @@
+[
+  {
+    "setting": "generic",
+    "task": "indicators",
+    "repeat": 0,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 4.2,
+      "central_bank_policy_rate_pct": 10.0,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.7,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 0.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025",
+      "headline_inflation_rate_pct": "2024",
+      "central_bank_policy_rate_pct": "2024",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2024",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 0.5,
+    "judge_correct": 0.16666666666666666,
+    "nulls": 0,
+    "seconds": 5.2,
+    "out_tokens": 556
+  },
+  {
+    "setting": "generic",
+    "task": "indicators",
+    "repeat": 1,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 4.2,
+      "central_bank_policy_rate_pct": 10.0,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.7,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 0.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025",
+      "headline_inflation_rate_pct": "2024",
+      "central_bank_policy_rate_pct": "2024",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2024",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 0.5,
+    "judge_correct": 0.6666666666666666,
+    "nulls": 0,
+    "seconds": 26.93,
+    "out_tokens": 604
+  },
+  {
+    "setting": "generic",
+    "task": "indicators",
+    "repeat": 2,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 4.2,
+      "central_bank_policy_rate_pct": 10.0,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.7,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 0.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025",
+      "headline_inflation_rate_pct": "2024",
+      "central_bank_policy_rate_pct": "2024",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2024",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 0.5,
+    "judge_correct": 0.16666666666666666,
+    "nulls": 0,
+    "seconds": 20.95,
+    "out_tokens": 3063
+  },
+  {
+    "setting": "generic",
+    "task": "rag",
+    "qid": "Q1",
+    "answer": "Under the new two-year Flexible Credit Line (FCL) arrangement, Mexico is requesting access of 200 percent of quota (equivalent to SDR 17.8254 billion, or about US$24 billion). This represents a reduction compared to the current arrangement approved in November 2023, under which access was 300 percent of quota (equivalent to SDR 26.7381 billion, or about US$35 billion).",
+    "answerable": true,
+    "cited_ids": [
+      "S03-01",
+      "S01-01",
+      "S01-02"
+    ],
+    "retrieved_ids": [
+      "S03-01",
+      "S02-02",
+      "S01-02",
+      "S01-01",
+      "S36-01",
+      "S33-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 5.59,
+    "out_tokens": 523
+  },
+  {
+    "setting": "generic",
+    "task": "rag",
+    "qid": "Q2",
+    "answer": "IMF staff projects inflation to converge to the 3 percent target by the second half of 2026.",
+    "answerable": true,
+    "cited_ids": [
+      "S05-01",
+      "S06-03"
+    ],
+    "retrieved_ids": [
+      "S29-02",
+      "S36-02",
+      "S04-01",
+      "S08-05",
+      "S06-03",
+      "S05-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.39,
+    "out_tokens": 256
+  },
+  {
+    "setting": "generic",
+    "task": "rag",
+    "qid": "Q3",
+    "answer": "Since early 2024, the central bank has cut the policy rate by 375 basis points. Staff describes monetary policy as having appropriately eased, but notes that the monetary stance remains moderately restrictive.",
+    "answerable": true,
+    "cited_ids": [
+      "S04-02",
+      "S06-03"
+    ],
+    "retrieved_ids": [
+      "S29-02",
+      "S04-01",
+      "S06-03",
+      "S04-02",
+      "S04-03",
+      "S06-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.5,
+    "out_tokens": 280
+  },
+  {
+    "setting": "generic",
+    "task": "rag",
+    "qid": "Q4",
+    "answer": "For 2025, the government targeted a deficit of 3.9 percent of GDP, whereas the draft 2026 budget projects the 2025 deficit will reach 4.3 percent of GDP.",
+    "answerable": true,
+    "cited_ids": [
+      "S04-02"
+    ],
+    "retrieved_ids": [
+      "S07-04",
+      "S32-01",
+      "S06-02",
+      "S21-06",
+      "S04-02",
+      "S29-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.57,
+    "out_tokens": 349
+  },
+  {
+    "setting": "generic",
+    "task": "rag",
+    "qid": "Q5",
+    "answer": "Pemex places pressure on Mexico's public finances through several channels:\n\n- **Government Financial Support and Pre-Capitalized Notes:** Financial support operations for Pemex have involved the issuance of pre-capitalized notes amounting to about 0.6 percent of GDP, which are under discussion for inclusion in gross public debt.\n- **Supplier Debt Repayment:** The upcoming repayment of Pemex's supplier debt through the newly created Pemex Investment Fund may lead to an increase in the Debt Sustainability Analysis (DSA) stock of gross public debt, as accounts payable and supplier debt have historically been excluded from the gross public debt perimeter.\n- **Supplier Arrears:** Pemex accumulated arrears on supplier debt amounting to 0.6 percent of GDP at end-2024 (and 0.1 percent of GDP as of September 12, 2025), which are not included in the official net or gross stock of public sector borrowing requirements.",
+    "answerable": true,
+    "cited_ids": [
+      "S07-07",
+      "S19-06",
+      "S21-06"
+    ],
+    "retrieved_ids": [
+      "S20-02",
+      "S21-06",
+      "S26-01",
+      "S26-02",
+      "S07-07",
+      "S19-06"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 0.5,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 5.67,
+    "out_tokens": 724
+  },
+  {
+    "setting": "generic",
+    "task": "rag",
+    "qid": "Q6",
+    "answer": "I am sorry, but the provided passages do not contain information about the numerical value of the overall financing gap that would arise in the adverse scenario.",
+    "answerable": false,
+    "cited_ids": [],
+    "retrieved_ids": [
+      "S08-04",
+      "S27-03",
+      "S33-03",
+      "S33-02",
+      "S34-01",
+      "S09-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 0.0,
+    "fact_recall": 0.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 4.82,
+    "out_tokens": 435
+  },
+  {
+    "setting": "generic",
+    "task": "rag",
+    "qid": "Q7",
+    "answer": "Mexico's gross international reserves are considered adequate. At end-2024, they stood at US$232 billion (12.4 percent of GDP), which was adequate at 135 percent of the ARA metric and 310 percent of short-term debt at remaining maturity.",
+    "answerable": true,
+    "cited_ids": [
+      "S31-01",
+      "S31-02"
+    ],
+    "retrieved_ids": [
+      "S22-06",
+      "S23-05",
+      "S31-01",
+      "S26-01",
+      "S31-02",
+      "S25-04"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 5.95,
+    "out_tokens": 306
+  },
+  {
+    "setting": "generic",
+    "task": "rag",
+    "qid": "Q8",
+    "answer": "The banking system's Tier 1 capital ratio stood at 17.9 percent (with other reported review figures of 18.0 percent and 18.8 percent), and the regulatory threshold is 6 percent.",
+    "answerable": true,
+    "cited_ids": [
+      "S07-11",
+      "S24-01"
+    ],
+    "retrieved_ids": [
+      "S07-11",
+      "S24-01",
+      "S07-06",
+      "S07-08",
+      "S24-02",
+      "S31-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 15.54,
+    "out_tokens": 400
+  },
+  {
+    "setting": "generic",
+    "task": "rag",
+    "qid": "Q9",
+    "answer": "I am sorry, but the provided passages do not contain projections for Mexican house prices in 2026.",
+    "answerable": false,
+    "cited_ids": [],
+    "retrieved_ids": [
+      "S19-01",
+      "S19-04",
+      "S05-04",
+      "S27-03",
+      "S19-06",
+      "S27-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": null,
+    "fact_recall": null,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.13,
+    "out_tokens": 247
+  },
+  {
+    "setting": "persona",
+    "task": "indicators",
+    "repeat": 0,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 4.2,
+      "central_bank_policy_rate_pct": 10.0,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.7,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 1.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025",
+      "headline_inflation_rate_pct": "2024",
+      "central_bank_policy_rate_pct": "2024",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2024",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 0.5,
+    "judge_correct": 0.3333333333333333,
+    "nulls": 0,
+    "seconds": 23.42,
+    "out_tokens": 3371
+  },
+  {
+    "setting": "persona",
+    "task": "indicators",
+    "repeat": 1,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 3.7,
+      "central_bank_policy_rate_pct": 7.5,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.9,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 0.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025",
+      "headline_inflation_rate_pct": "2025",
+      "central_bank_policy_rate_pct": "2025",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2025",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 1.0,
+    "judge_correct": 0.3333333333333333,
+    "nulls": 0,
+    "seconds": 23.09,
+    "out_tokens": 2077
+  },
+  {
+    "setting": "persona",
+    "task": "indicators",
+    "repeat": 2,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 3.7,
+      "central_bank_policy_rate_pct": 7.5,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.7,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 1.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025",
+      "headline_inflation_rate_pct": "2025",
+      "central_bank_policy_rate_pct": "2025",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2024",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 0.8333333333333334,
+    "judge_correct": 0.8333333333333334,
+    "nulls": 0,
+    "seconds": 24.69,
+    "out_tokens": 3745
+  },
+  {
+    "setting": "persona",
+    "task": "rag",
+    "qid": "Q1",
+    "answer": "Under the new successor two-year FCL arrangement, Mexico is requesting access of 200 percent of quota, equivalent to SDR 17.8254 billion (about US$24 billion). This represents a reduction in access compared to the current arrangement approved in November 2023, under which access was set at 300 percent of quota, or SDR 26.7381 billion (about US$35 billion).",
+    "answerable": true,
+    "cited_ids": [
+      "S03-01",
+      "S01-01",
+      "S01-02"
+    ],
+    "retrieved_ids": [
+      "S03-01",
+      "S02-02",
+      "S01-02",
+      "S01-01",
+      "S36-01",
+      "S33-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.96,
+    "out_tokens": 593
+  },
+  {
+    "setting": "persona",
+    "task": "rag",
+    "qid": "Q2",
+    "answer": "IMF staff projects inflation to converge to the 3 percent target by the second half of 2026, supported by weaker economic activity and the recent appreciation of the peso.",
+    "answerable": true,
+    "cited_ids": [
+      "S05-01",
+      "S06-03"
+    ],
+    "retrieved_ids": [
+      "S29-02",
+      "S36-02",
+      "S04-01",
+      "S08-05",
+      "S06-03",
+      "S05-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.16,
+    "out_tokens": 347
+  },
+  {
+    "setting": "persona",
+    "task": "rag",
+    "qid": "Q3",
+    "answer": "Since early 2024, the central bank has cut the policy rate by 375 basis points. IMF staff notes that while monetary policy has appropriately eased, the monetary stance remains moderately restrictive.",
+    "answerable": true,
+    "cited_ids": [
+      "S04-02",
+      "S06-03"
+    ],
+    "retrieved_ids": [
+      "S29-02",
+      "S04-01",
+      "S06-03",
+      "S04-02",
+      "S04-03",
+      "S06-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.7,
+    "out_tokens": 358
+  },
+  {
+    "setting": "persona",
+    "task": "rag",
+    "qid": "Q4",
+    "answer": "For 2025, the government targeted a reduction in the fiscal deficit to 3.9 percent of GDP. However, the draft 2026 budget projects the 2025 deficit to reach 4.3 percent of GDP, primarily reflecting a shortfall in oil revenues.",
+    "answerable": true,
+    "cited_ids": [
+      "S04-02"
+    ],
+    "retrieved_ids": [
+      "S07-04",
+      "S32-01",
+      "S06-02",
+      "S21-06",
+      "S04-02",
+      "S29-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 5.9,
+    "out_tokens": 464
+  },
+  {
+    "setting": "persona",
+    "task": "rag",
+    "qid": "Q5",
+    "answer": "Pemex places pressure on Mexico's public finances through government support operations and obligations that impact the public debt perimeter. Specifically:\n\n- The government conducts financial operations to support Pemex, including the issuance of pre-capitalized notes (amounting to about 0.6 percent of GDP) whose potential statistical inclusion in gross public debt is under discussion.\n- Pemex accumulated supplier debt arrears, which stood at 0.6 percent of GDP at end-2024 and 0.1 percent of GDP as of September 12, 2025 (and are excluded from official public sector borrowing requirements).\n- The upcoming repayment of supplier debt via the newly established Pemex Investment Fund could lead to an increase in the Debt Sustainability Analysis (DSA) stock of gross public debt, as accounts payable like supplier debt are currently excluded from the debt perimeter.",
+    "answerable": true,
+    "cited_ids": [
+      "S07-07",
+      "S19-06",
+      "S21-06"
+    ],
+    "retrieved_ids": [
+      "S20-02",
+      "S21-06",
+      "S26-01",
+      "S26-02",
+      "S07-07",
+      "S19-06"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 0.5,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 6.18,
+    "out_tokens": 723
+  },
+  {
+    "setting": "persona",
+    "task": "rag",
+    "qid": "Q6",
+    "answer": "I am sorry, but the provided passages do not contain information on the specific overall financing gap that would arise in the adverse scenario.",
+    "answerable": false,
+    "cited_ids": [],
+    "retrieved_ids": [
+      "S08-04",
+      "S27-03",
+      "S33-03",
+      "S33-02",
+      "S34-01",
+      "S09-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 0.0,
+    "fact_recall": 0.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 4.37,
+    "out_tokens": 556
+  },
+  {
+    "setting": "persona",
+    "task": "rag",
+    "qid": "Q7",
+    "answer": "Mexico's gross international reserves are assessed as adequate. At end-2024, gross international reserves stood at US$232 billion (12.4 percent of GDP), which corresponded to an adequate 135 percent of the Assessing Reserve Adequacy (ARA) metric and 310 percent of short-term debt at remaining maturity. Reserves increased further to US$249 billion by end-August 2025.",
+    "answerable": true,
+    "cited_ids": [
+      "S31-01",
+      "S31-02"
+    ],
+    "retrieved_ids": [
+      "S22-06",
+      "S23-05",
+      "S31-01",
+      "S26-01",
+      "S31-02",
+      "S25-04"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.2,
+    "out_tokens": 358
+  },
+  {
+    "setting": "persona",
+    "task": "rag",
+    "qid": "Q8",
+    "answer": "Based on the provided documents, the banking system's Tier 1 capital ratio stood at 17.9 percent (as of June 2025, with earlier reported figures ranging between 18.0 and 18.8 percent), well above the regulatory threshold of 6 percent.",
+    "answerable": true,
+    "cited_ids": [
+      "S07-11",
+      "S24-01"
+    ],
+    "retrieved_ids": [
+      "S07-11",
+      "S24-01",
+      "S07-06",
+      "S07-08",
+      "S24-02",
+      "S31-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 5.28,
+    "out_tokens": 423
+  },
+  {
+    "setting": "persona",
+    "task": "rag",
+    "qid": "Q9",
+    "answer": "I am sorry, but the provided passages do not contain information or projections regarding Mexican house prices in 2026.",
+    "answerable": false,
+    "cited_ids": [],
+    "retrieved_ids": [
+      "S19-01",
+      "S19-04",
+      "S05-04",
+      "S27-03",
+      "S19-06",
+      "S27-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": null,
+    "fact_recall": null,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.82,
+    "out_tokens": 396
+  },
+  {
+    "setting": "strict",
+    "task": "indicators",
+    "repeat": 0,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 3.7,
+      "central_bank_policy_rate_pct": 7.5,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.9,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 1.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025 projection",
+      "headline_inflation_rate_pct": "2025 projection",
+      "central_bank_policy_rate_pct": "2025 projection",
+      "non_performing_loan_ratio": "June 2025 (latest reading)",
+      "unemployment_rate_pct": "2025 projection",
+      "tier_1_capital_ratio": "June 2025 (latest reading)"
+    },
+    "accuracy": 1.0,
+    "judge_correct": 1.0,
+    "nulls": 0,
+    "seconds": 19.12,
+    "out_tokens": 2980
+  },
+  {
+    "setting": "strict",
+    "task": "indicators",
+    "repeat": 1,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 3.7,
+      "central_bank_policy_rate_pct": 7.5,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.9,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 0.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025 projection",
+      "headline_inflation_rate_pct": "2025 projection",
+      "central_bank_policy_rate_pct": "2025 projection",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2025 projection",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 1.0,
+    "judge_correct": 1.0,
+    "nulls": 0,
+    "seconds": 27.87,
+    "out_tokens": 2915
+  },
+  {
+    "setting": "strict",
+    "task": "indicators",
+    "repeat": 2,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 3.7,
+      "central_bank_policy_rate_pct": 7.5,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.9,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 0.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025 (projection)",
+      "headline_inflation_rate_pct": "2025 (projection)",
+      "central_bank_policy_rate_pct": "2025 (projection)",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2025 (projection)",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 1.0,
+    "judge_correct": 1.0,
+    "nulls": 0,
+    "seconds": 13.94,
+    "out_tokens": 2132
+  },
+  {
+    "setting": "strict",
+    "task": "rag",
+    "qid": "Q1",
+    "answer": "Under the new FCL arrangement, Mexico requested access of 200 percent of quota, equivalent to SDR 17.8254 billion (about US$24 billion). This represents a further reduction in access compared to the current arrangement approved in November 2023, under which access was 300 percent of quota (equivalent to SDR 26.7381 billion, or about US$35 billion).",
+    "answerable": true,
+    "cited_ids": [
+      "S01-01",
+      "S01-02",
+      "S03-01"
+    ],
+    "retrieved_ids": [
+      "S03-01",
+      "S02-02",
+      "S01-02",
+      "S01-01",
+      "S36-01",
+      "S33-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 6.45,
+    "out_tokens": 519
+  },
+  {
+    "setting": "strict",
+    "task": "rag",
+    "qid": "Q2",
+    "answer": "Inflation is projected to converge to the central bank's target by the second half of 2026.",
+    "answerable": true,
+    "cited_ids": [
+      "S05-01"
+    ],
+    "retrieved_ids": [
+      "S29-02",
+      "S36-02",
+      "S04-01",
+      "S08-05",
+      "S06-03",
+      "S05-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 2.35,
+    "out_tokens": 44
+  },
+  {
+    "setting": "strict",
+    "task": "rag",
+    "qid": "Q3",
+    "answer": "Since early 2024, the central bank has cut the policy rate by 375 bps. Staff notes that monetary policy has \"appropriately eased,\" but \"remains moderately restrictive,\" which staff describes as appropriate given still-elevated core inflation in recent months and inflation expectations remaining above target.",
+    "answerable": true,
+    "cited_ids": [
+      "S04-02",
+      "S06-03"
+    ],
+    "retrieved_ids": [
+      "S29-02",
+      "S04-01",
+      "S06-03",
+      "S04-02",
+      "S04-03",
+      "S06-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.74,
+    "out_tokens": 346
+  },
+  {
+    "setting": "strict",
+    "task": "rag",
+    "qid": "Q4",
+    "answer": "For 2025, the government targeted a reduction in the deficit to 3.9 percent of GDP. The draft 2026 budget projects the deficit will reach 4.3 percent of GDP in 2025, primarily due to a shortfall in oil revenues.",
+    "answerable": true,
+    "cited_ids": [
+      "S04-02"
+    ],
+    "retrieved_ids": [
+      "S07-04",
+      "S32-01",
+      "S06-02",
+      "S21-06",
+      "S04-02",
+      "S29-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.23,
+    "out_tokens": 298
+  },
+  {
+    "setting": "strict",
+    "task": "rag",
+    "qid": "Q5",
+    "answer": "Based on the provided text, Pemex creates obligations and potential debt additions for Mexico's public finances through:\n\n- **Financial support operations and pre-capitalized notes:** Financial operations have been undertaken to support Pemex, and the authorities and IMF staff are discussing the statistical treatment of pre-capitalized notes (amounting to about 0.6 percent of GDP), which are currently excluded from gross public debt numbers.\n- **Supplier debt repayment:** Upcoming repayment of supplier debt through the newly created Pemex Investment Fund may entail an increase in the Debt Sustainability Analysis (DSA) stock of gross public debt, because Pemex's financial obligations are part of the DSA debt perimeter, whereas accounts payable (including supplier debt) currently are not.\n- **Supplier debt arrears:** Arrears on Pemex's supplier debt—which are not included in the published net or gross stock of public sector borrowing requirements—stood at 0.6 percent of GDP at end-2024 and 0.1 percent of GDP as of September 12, 2025.",
+    "answerable": true,
+    "cited_ids": [
+      "S07-07",
+      "S19-06",
+      "S21-06"
+    ],
+    "retrieved_ids": [
+      "S20-02",
+      "S21-06",
+      "S26-01",
+      "S26-02",
+      "S07-07",
+      "S19-06"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 0.5,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 6.76,
+    "out_tokens": 777
+  },
+  {
+    "setting": "strict",
+    "task": "rag",
+    "qid": "Q6",
+    "answer": "I am sorry, but the provided text does not contain the figure for the overall financing gap that would arise in the adverse scenario.",
+    "answerable": false,
+    "cited_ids": [],
+    "retrieved_ids": [
+      "S08-04",
+      "S27-03",
+      "S33-03",
+      "S33-02",
+      "S34-01",
+      "S09-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 0.0,
+    "fact_recall": 0.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 5.25,
+    "out_tokens": 338
+  },
+  {
+    "setting": "strict",
+    "task": "rag",
+    "qid": "Q7",
+    "answer": "At end-2024, Mexico's gross international reserves stood at US$232 billion (12.4 percent of GDP) and were assessed as adequate at 135 percent of the ARA metric and 310 percent of short-term debt (at remaining maturity). Reserves subsequently increased to US$249 billion by end-August 2025.",
+    "answerable": true,
+    "cited_ids": [
+      "S31-01",
+      "S31-02"
+    ],
+    "retrieved_ids": [
+      "S22-06",
+      "S23-05",
+      "S31-01",
+      "S26-01",
+      "S31-02",
+      "S25-04"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.36,
+    "out_tokens": 321
+  },
+  {
+    "setting": "strict",
+    "task": "rag",
+    "qid": "Q8",
+    "answer": "According to the report, the regulatory threshold for the Tier 1 capital ratio is 6 percent. \n\nFor the banking system's Tier 1 capital ratio:\n- In the FCL qualification review, it is reported as standing at 18.0 percent, 18.8 percent, and 17.9 percent across reported periods.\n- In Table 5 (Regulatory Tier 1 capital to risk-weighted assets, in percent), the figures are:\n  - 2019: 14.4 percent\n  - 2020: 16.1 percent\n  - 2021: 18.1 percent\n  - 2022: 17.6 percent\n  - 2023: 17.5 percent\n  - 2024: 17.2 percent\n  - June 2025 (latest data available): 17.9 percent.",
+    "answerable": true,
+    "cited_ids": [
+      "S07-11",
+      "S24-01"
+    ],
+    "retrieved_ids": [
+      "S07-11",
+      "S24-01",
+      "S07-06",
+      "S07-08",
+      "S24-02",
+      "S31-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 5.91,
+    "out_tokens": 703
+  },
+  {
+    "setting": "strict",
+    "task": "rag",
+    "qid": "Q9",
+    "answer": "The provided text does not contain projections for Mexican house prices in 2026.",
+    "answerable": false,
+    "cited_ids": [],
+    "retrieved_ids": [
+      "S19-01",
+      "S19-04",
+      "S05-04",
+      "S27-03",
+      "S19-06",
+      "S27-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": null,
+    "fact_recall": null,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.0,
+    "out_tokens": 239
+  },
+  {
+    "setting": "pipeline",
+    "task": "indicators",
+    "repeat": 0,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 3.7,
+      "central_bank_policy_rate_pct": 7.5,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.9,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 1.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025 projection",
+      "headline_inflation_rate_pct": "2025 projection",
+      "central_bank_policy_rate_pct": "2025 projection",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2025 projection",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 1.0,
+    "judge_correct": 1.0,
+    "nulls": 0,
+    "seconds": 19.62,
+    "out_tokens": 3156
+  },
+  {
+    "setting": "pipeline",
+    "task": "indicators",
+    "repeat": 1,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 3.7,
+      "central_bank_policy_rate_pct": 7.5,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.9,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 1.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025 (projection)",
+      "headline_inflation_rate_pct": "2025 (projection)",
+      "central_bank_policy_rate_pct": "2025 (projection)",
+      "non_performing_loan_ratio": "June 2025 (latest reading)",
+      "unemployment_rate_pct": "2025 (projection)",
+      "tier_1_capital_ratio": "June 2025 (latest reading)"
+    },
+    "accuracy": 1.0,
+    "judge_correct": 1.0,
+    "nulls": 0,
+    "seconds": 21.11,
+    "out_tokens": 2778
+  },
+  {
+    "setting": "pipeline",
+    "task": "indicators",
+    "repeat": 2,
+    "field_values": {
+      "gdp_growth_forecast_pct": 1.0,
+      "headline_inflation_rate_pct": 3.7,
+      "central_bank_policy_rate_pct": 7.5,
+      "non_performing_loan_ratio": 2.1,
+      "unemployment_rate_pct": 2.9,
+      "tier_1_capital_ratio": 17.9
+    },
+    "schema_first_try": true,
+    "ids_clean": 1.0,
+    "years": {
+      "gdp_growth_forecast_pct": "2025 (projection)",
+      "headline_inflation_rate_pct": "2025 (projection)",
+      "central_bank_policy_rate_pct": "2025 (projection)",
+      "non_performing_loan_ratio": "June 2025",
+      "unemployment_rate_pct": "2025 (projection)",
+      "tier_1_capital_ratio": "June 2025"
+    },
+    "accuracy": 1.0,
+    "judge_correct": 1.0,
+    "nulls": 0,
+    "seconds": 15.67,
+    "out_tokens": 2193
+  },
+  {
+    "setting": "pipeline",
+    "task": "rag",
+    "qid": "Q1",
+    "answer": "Under the new FCL arrangement, Mexico is requesting access of 200 percent of quota, equivalent to SDR 17.8254 billion (about US$24 billion) [S01-01, S03-01]. This represents a further reduction in access compared to the current arrangement approved in November 2023, under which access is 300 percent of quota (equivalent to SDR 26.7381 billion, or about US$35 billion) [S01-02, S03-01].",
+    "answerable": true,
+    "cited_ids": [
+      "S01-01",
+      "S01-02",
+      "S03-01"
+    ],
+    "retrieved_ids": [
+      "S03-01",
+      "S02-02",
+      "S01-02",
+      "S01-01",
+      "S36-01",
+      "S33-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 6.79,
+    "out_tokens": 634
+  },
+  {
+    "setting": "pipeline",
+    "task": "rag",
+    "qid": "Q2",
+    "answer": "Inflation is projected to converge to the central bank's target by the second half of 2026 [S05-01].",
+    "answerable": true,
+    "cited_ids": [
+      "S05-01"
+    ],
+    "retrieved_ids": [
+      "S29-02",
+      "S36-02",
+      "S04-01",
+      "S08-05",
+      "S06-03",
+      "S05-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 12.15,
+    "out_tokens": 440
+  },
+  {
+    "setting": "pipeline",
+    "task": "rag",
+    "qid": "Q3",
+    "answer": "Since early-2024, the central bank has cut the policy rate by 375 bps [S04-02]. Staff describes monetary policy as having appropriately eased and states that it remains moderately restrictive [S06-03].",
+    "answerable": true,
+    "cited_ids": [
+      "S04-02",
+      "S06-03"
+    ],
+    "retrieved_ids": [
+      "S29-02",
+      "S04-01",
+      "S06-03",
+      "S04-02",
+      "S04-03",
+      "S06-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 4.66,
+    "out_tokens": 407
+  },
+  {
+    "setting": "pipeline",
+    "task": "rag",
+    "qid": "Q4",
+    "answer": "For 2025, the government targeted a reduction in the deficit to 3.9 percent of GDP [S04-02]. The draft 2026 budget projects the deficit will reach 4.3 percent of GDP in 2025, mainly reflecting a shortfall in oil revenues [S04-02].",
+    "answerable": true,
+    "cited_ids": [
+      "S04-02"
+    ],
+    "retrieved_ids": [
+      "S07-04",
+      "S32-01",
+      "S06-02",
+      "S21-06",
+      "S04-02",
+      "S29-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 5.84,
+    "out_tokens": 480
+  },
+  {
+    "setting": "pipeline",
+    "task": "rag",
+    "qid": "Q5",
+    "answer": "Not stated in the report.",
+    "answerable": false,
+    "cited_ids": [],
+    "retrieved_ids": [
+      "S20-02",
+      "S21-06",
+      "S26-01",
+      "S26-02",
+      "S07-07",
+      "S19-06"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 0.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 8.68,
+    "out_tokens": 984
+  },
+  {
+    "setting": "pipeline",
+    "task": "rag",
+    "qid": "Q6",
+    "answer": "Not stated in the report.",
+    "answerable": false,
+    "cited_ids": [],
+    "retrieved_ids": [
+      "S08-04",
+      "S27-03",
+      "S33-03",
+      "S33-02",
+      "S34-01",
+      "S09-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 0.0,
+    "fact_recall": 0.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 5.31,
+    "out_tokens": 326
+  },
+  {
+    "setting": "pipeline",
+    "task": "rag",
+    "qid": "Q7",
+    "answer": "Gross international reserves stood at US$232 billion (12.4 percent of GDP) at end-2024, which was adequate at 135 percent of the ARA metric and 310 percent of short-term debt at remaining maturity [S31-01]. Reserves increased further to US$249 billion by end-August 2025 [S31-02].",
+    "answerable": true,
+    "cited_ids": [
+      "S31-01",
+      "S31-02"
+    ],
+    "retrieved_ids": [
+      "S22-06",
+      "S23-05",
+      "S31-01",
+      "S26-01",
+      "S31-02",
+      "S25-04"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 9.32,
+    "out_tokens": 507
+  },
+  {
+    "setting": "pipeline",
+    "task": "rag",
+    "qid": "Q8",
+    "answer": "The Tier 1 capital ratio stood at 17.9 percent, with other reported figures at 18.0 percent and 18.8 percent [S07-11], and regulatory Tier 1 capital to risk-weighted assets was 17.9 percent in June 2025 [S24-01]. The regulatory threshold for the Tier 1 capital ratio is 6 percent [S07-11].",
+    "answerable": true,
+    "cited_ids": [
+      "S07-11",
+      "S24-01"
+    ],
+    "retrieved_ids": [
+      "S07-11",
+      "S24-01",
+      "S07-06",
+      "S07-08",
+      "S24-02",
+      "S31-02"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": 1.0,
+    "fact_recall": 1.0,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 6.8,
+    "out_tokens": 851
+  },
+  {
+    "setting": "pipeline",
+    "task": "rag",
+    "qid": "Q9",
+    "answer": "Not stated in the report.",
+    "answerable": false,
+    "cited_ids": [],
+    "retrieved_ids": [
+      "S19-01",
+      "S19-04",
+      "S05-04",
+      "S27-03",
+      "S19-06",
+      "S27-01"
+    ],
+    "schema_first_try": true,
+    "facts_in_context": null,
+    "fact_recall": null,
+    "faithfulness": 5,
+    "completeness": 5,
+    "unsupported": 0,
+    "seconds": 3.89,
+    "out_tokens": 247
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "row": "Regulatory capital to risk-weighted assets",
+    "year": 2019,
+    "ocr": 16.0,
+    "by_hand": 16.0,
+    "match": true
+  },
+  {
+    "row": "Regulatory capital to risk-weighted assets",
+    "year": 2020,
+    "ocr": 17.7,
+    "by_hand": 17.7,
+    "match": true
+  },
+  {
+    "row": "Regulatory capital to risk-weighted assets",
+    "year": 2021,
+    "ocr": 19.5,
+    "by_hand": 19.5,
+    "match": true
+  },
+  {
+    "row": "Regulatory capital to risk-weighted assets",
+    "year": 2022,
+    "ocr": 19.0,
+    "by_hand": 19.0,
+    "match": true
+  },
+  {
+    "row": "Regulatory capital to risk-weighted assets",
+    "year": 2023,
+    "ocr": 18.8,
+    "by_hand": 18.8,
+    "match": true
+  },
+  {
+    "row": "Regulatory capital to risk-weighted assets",
+    "year": 2024,
+    "ocr": 19.1,
+    "by_hand": 19.1,
+    "match": true
+  },
+  {
+    "row": "Regulatory capital to risk-weighted assets",
+    "year": 2025,
+    "ocr": 20.0,
+    "by_hand": 20.0,
+    "match": true
+  },
+  {
+    "row": "Regulatory Tier 1 capital to risk-weighted assets",
+    "year": 2019,
+    "ocr": 14.4,
+    "by_hand": 14.4,
+    "match": true
+  },
+  {
+    "row": "Regulatory Tier 1 capital to risk-weighted assets",
+    "year": 2020,
+    "ocr": 16.1,
+    "by_hand": 16.1,
+    "match": true
+  },
+  {
+    "row": "Regulatory Tier 1 capital to risk-weighted assets",
+    "year": 2021,
+    "ocr": 18.1,
+    "by_hand": 18.1,
+    "match": true
+  },
+  {
+    "row": "Regulatory Tier 1 capital to risk-weighted assets",
+    "year": 2022,
+    "ocr": 17.6,
+    "by_hand": 17.6,
+    "match": true
+  },
+  {
+    "row": "Regulatory Tier 1 capital to risk-weighted assets",
+    "year": 2023,
+    "ocr": 17.5,
+    "by_hand": 17.5,
+    "match": true
+  },
+  {
+    "row": "Regulatory Tier 1 capital to risk-weighted assets",
+    "year": 2024,
+    "ocr": 17.2,
+    "by_hand": 17.2,
+    "match": true
+  },
+  {
+    "row": "Regulatory Tier 1 capital to risk-weighted assets",
+    "year": 2025,
+    "ocr": 17.9,
+    "by_hand": 17.9,
+    "match": true
+  },
+  {
+    "row": "Capital to assets",
+    "year": 2019,
+    "ocr": 9.8,
+    "by_hand": 9.8,
+    "match": true
+  },
+  {
+    "row": "Capital to assets",
+    "year": 2020,
+    "ocr": 9.7,
+    "by_hand": 9.7,
+    "match": true
+  },
+  {
+    "row": "Capital to assets",
+    "year": 2021,
+    "ocr": 10.9,
+    "by_hand": 10.9,
+    "match": true
+  },
+  {
+    "row": "Capital to assets",
+    "year": 2022,
+    "ocr": 9.8,
+    "by_hand": 9.8,
+    "match": true
+  },
+  {
+    "row": "Capital to assets",
+    "year": 2023,
+    "ocr": 10.2,
+    "by_hand": 10.2,
+    "match": true
+  },
+  {
+    "row": "Capital to assets",
+    "year": 2024,
+    "ocr": 9.9,
+    "by_hand": 9.9,
+    "match": true
+  },
+  {
+    "row": "Capital to assets",
+    "year": 2025,
+    "ocr": 10.4,
+    "by_hand": 10.4,
+    "match": true
+  },
+  {
+    "row": "Nonperforming loans to total gross loans",
+    "year": 2019,
+    "ocr": 2.2,
+    "by_hand": 2.2,
+    "match": true
+  },
+  {
+    "row": "Nonperforming loans to total gross loans",
+    "year": 2020,
+    "ocr": 2.6,
+    "by_hand": 2.6,
+    "match": true
+  },
+  {
+    "row": "Nonperforming loans to total gross loans",
+    "year": 2021,
+    "ocr": 2.0,
+    "by_hand": 2.0,
+    "match": true
+  },
+  {
+    "row": "Nonperforming loans to total gross loans",
+    "year": 2022,
+    "ocr": 2.1,
+    "by_hand": 2.1,
+    "match": true
+  },
+  {
+    "row": "Nonperforming loans to total gross loans",
+    "year": 2023,
+    "ocr": 2.1,
+    "by_hand": 2.1,
+    "match": true
+  },
+  {
+    "row": "Nonperforming loans to total gross loans",
+    "year": 2024,
+    "ocr": 2.0,
+    "by_hand": 2.0,
+    "match": true
+  },
+  {
+    "row": "Nonperforming loans to total gross loans",
+    "year": 2025,
+    "ocr": 2.1,
+    "by_hand": 2.1,
+    "match": true
+  },
+  {
+    "row": "Provisions to Nonperforming loans",
+    "year": 2019,
+    "ocr": 146.2,
+    "by_hand": 146.2,
+    "match": true
+  },
+  {
+    "row": "Provisions to Nonperforming loans",
+    "year": 2020,
+    "ocr": 160.1,
+    "by_hand": 160.1,
+    "match": true
+  },
+  {
+    "row": "Provisions to Nonperforming loans",
+    "year": 2021,
+    "ocr": 160.7,
+    "by_hand": 160.7,
+    "match": true
+  },
+  {
+    "row": "Provisions to Nonperforming loans",
+    "year": 2022,
+    "ocr": 158.1,
+    "by_hand": 158.1,
+    "match": true
+  },
+  {
+    "row": "Provisions to Nonperforming loans",
+    "year": 2023,
+    "ocr": 154.3,
+    "by_hand": 154.3,
+    "match": true
+  },
+  {
+    "row": "Provisions to Nonperforming loans",
+    "year": 2024,
+    "ocr": 156.6,
+    "by_hand": 156.6,
+    "match": true
+  },
+  {
+    "row": "Provisions to Nonperforming loans",
+    "year": 2025,
+    "ocr": 152.3,
+    "by_hand": 152.3,
+    "match": true
+  },
+  {
+    "row": "Return on assets",
+    "year": 2019,
+    "ocr": 2.3,
+    "by_hand": 2.3,
+    "match": true
+  },
+  {
+    "row": "Return on assets",
+    "year": 2020,
+    "ocr": 1.2,
+    "by_hand": 1.2,
+    "match": true
+  },
+  {
+    "row": "Return on assets",
+    "year": 2021,
+    "ocr": 2.1,
+    "by_hand": 2.1,
+    "match": true
+  },
+  {
+    "row": "Return on assets",
+    "year": 2022,
+    "ocr": 2.6,
+    "by_hand": 2.6,
+    "match": true
+  },
+  {
+    "row": "Return on assets",
+    "year": 2023,
+    "ocr": 2.8,
+    "by_hand": 2.8,
+    "match": true
+  },
+  {
+    "row": "Return on assets",
+    "year": 2024,
+    "ocr": 2.8,
+    "by_hand": 2.8,
+    "match": true
+  },
+  {
+    "row": "Return on assets",
+    "year": 2025,
+    "ocr": 2.7,
+    "by_hand": 2.7,
+    "match": true
+  },
+  {
+    "row": "Return on equity",
+    "year": 2019,
+    "ocr": 18.5,
+    "by_hand": 15.5,
+    "match": false
+  },
+  {
+    "row": "Return on equity",
+    "year": 2020,
+    "ocr": 9.0,
+    "by_hand": 9.0,
+    "match": true
+  },
+  {
+    "row": "Return on equity",
+    "year": 2021,
+    "ocr": 14.6,
+    "by_hand": 14.6,
+    "match": true
+  },
+  {
+    "row": "Return on equity",
+    "year": 2022,
+    "ocr": 17.6,
+    "by_hand": 17.6,
+    "match": true
+  },
+  {
+    "row": "Return on equity",
+    "year": 2023,
+    "ocr": 18.5,
+    "by_hand": 18.5,
+    "match": true
+  },
+  {
+    "row": "Return on equity",
+    "year": 2024,
+    "ocr": 18.2,
+    "by_hand": 18.2,
+    "match": true
+  },
+  {
+    "row": "Return on equity",
+    "year": 2025,
+    "ocr": 17.7,
+    "by_hand": 17.7,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to short-term liabilities",
+    "year": 2019,
+    "ocr": 119.2,
+    "by_hand": 119.2,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to short-term liabilities",
+    "year": 2020,
+    "ocr": 136.8,
+    "by_hand": 136.8,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to short-term liabilities",
+    "year": 2021,
+    "ocr": 152.9,
+    "by_hand": 152.9,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to short-term liabilities",
+    "year": 2022,
+    "ocr": 124.3,
+    "by_hand": 124.3,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to short-term liabilities",
+    "year": 2023,
+    "ocr": 121.8,
+    "by_hand": 121.8,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to short-term liabilities",
+    "year": 2024,
+    "ocr": 108.0,
+    "by_hand": 108.0,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to short-term liabilities",
+    "year": 2025,
+    "ocr": 114.8,
+    "by_hand": 114.8,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to total assets",
+    "year": 2019,
+    "ocr": 29.6,
+    "by_hand": 29.6,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to total assets",
+    "year": 2020,
+    "ocr": 33.1,
+    "by_hand": 33.1,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to total assets",
+    "year": 2021,
+    "ocr": 34.5,
+    "by_hand": 34.5,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to total assets",
+    "year": 2022,
+    "ocr": 30.1,
+    "by_hand": 30.1,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to total assets",
+    "year": 2023,
+    "ocr": 29.7,
+    "by_hand": 29.7,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to total assets",
+    "year": 2024,
+    "ocr": 30.4,
+    "by_hand": 30.4,
+    "match": true
+  },
+  {
+    "row": "Liquid assets to total assets",
+    "year": 2025,
+    "ocr": 32.0,
+    "by_hand": 32.0,
+    "match": true
+  }
+]

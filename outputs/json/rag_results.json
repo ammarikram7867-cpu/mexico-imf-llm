@@ -1,0 +1,330 @@
+{
+  "questions": [
+    {
+      "qid": "Q1",
+      "q": "How much access is Mexico requesting under the new FCL arrangement, and how does it compare with the current arrangement?",
+      "facts": [
+        "17.8254",
+        "200 percent",
+        "300 percent"
+      ],
+      "pages": [
+        3,
+        5,
+        22
+      ]
+    },
+    {
+      "qid": "Q2",
+      "q": "When does IMF staff expect inflation to return to the 3 percent target?",
+      "facts": [
+        "second half of 2026"
+      ],
+      "pages": [
+        10,
+        15,
+        45
+      ]
+    },
+    {
+      "qid": "Q3",
+      "q": "By how much has the central bank cut the policy rate since early 2024, and how does staff describe the monetary stance?",
+      "facts": [
+        "375",
+        "moderately restrictive"
+      ],
+      "pages": [
+        9,
+        12,
+        15
+      ]
+    },
+    {
+      "qid": "Q4",
+      "q": "What fiscal deficit did the government target for 2025, and what does the draft 2026 budget project for 2025?",
+      "facts": [
+        "3.9",
+        "4.3"
+      ],
+      "pages": [
+        9
+      ]
+    },
+    {
+      "qid": "Q5",
+      "q": "How does Pemex put pressure on Mexico's public finances?",
+      "facts": [
+        "supplier",
+        "amortization"
+      ],
+      "pages": [
+        9
+      ]
+    },
+    {
+      "qid": "Q6",
+      "q": "What overall financing gap would arise in the adverse scenario?",
+      "facts": [
+        "67.8"
+      ],
+      "pages": [
+        18
+      ]
+    },
+    {
+      "qid": "Q7",
+      "q": "How adequate are Mexico's gross international reserves?",
+      "facts": [
+        "232",
+        "135 percent"
+      ],
+      "pages": [
+        45
+      ]
+    },
+    {
+      "qid": "Q8",
+      "q": "What is the banking system's Tier 1 capital ratio, and what is the regulatory threshold?",
+      "facts": [
+        "17.9",
+        "6 percent"
+      ],
+      "pages": [
+        17,
+        37
+      ]
+    },
+    {
+      "qid": "Q9",
+      "q": "What does the report project for Mexican house prices in 2026?",
+      "facts": [],
+      "pages": []
+    }
+  ],
+  "rows": [
+    {
+      "qid": "Q1",
+      "question": "How much access is Mexico requesting under the new FCL arrangement, and how does it compare with the current arrangement?",
+      "answer": "Under the new FCL arrangement, Mexico is requesting access of 200 percent of quota, equivalent to SDR 17.8254 billion (about US$24 billion) [S01-01, S03-01]. This represents a further reduction in access compared to the current arrangement approved in November 2023, under which access is 300 percent of quota (equivalent to SDR 26.7381 billion, or about US$35 billion) [S01-02, S03-01].",
+      "answerable": true,
+      "retrieved_ids": [
+        "S03-01",
+        "S02-02",
+        "S01-02",
+        "S01-01",
+        "S36-01",
+        "S33-01"
+      ],
+      "cited_ids": [
+        "S01-01",
+        "S01-02",
+        "S03-01"
+      ],
+      "citations_valid": true,
+      "retrieval_hit": true,
+      "facts_in_context": 1.0,
+      "fact_recall": 1.0,
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "unsupported_claims": []
+    },
+    {
+      "qid": "Q2",
+      "question": "When does IMF staff expect inflation to return to the 3 percent target?",
+      "answer": "Inflation is projected to converge to the central bank's target by the second half of 2026 [S05-01].",
+      "answerable": true,
+      "retrieved_ids": [
+        "S29-02",
+        "S36-02",
+        "S04-01",
+        "S08-05",
+        "S06-03",
+        "S05-01"
+      ],
+      "cited_ids": [
+        "S05-01"
+      ],
+      "citations_valid": true,
+      "retrieval_hit": true,
+      "facts_in_context": 1.0,
+      "fact_recall": 1.0,
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "unsupported_claims": []
+    },
+    {
+      "qid": "Q3",
+      "question": "By how much has the central bank cut the policy rate since early 2024, and how does staff describe the monetary stance?",
+      "answer": "Since early-2024, the central bank has cut the policy rate by 375 bps [S04-02]. Staff describes monetary policy as having appropriately eased and states that it remains moderately restrictive [S06-03].",
+      "answerable": true,
+      "retrieved_ids": [
+        "S29-02",
+        "S04-01",
+        "S06-03",
+        "S04-02",
+        "S04-03",
+        "S06-02"
+      ],
+      "cited_ids": [
+        "S04-02",
+        "S06-03"
+      ],
+      "citations_valid": true,
+      "retrieval_hit": true,
+      "facts_in_context": 1.0,
+      "fact_recall": 1.0,
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "unsupported_claims": []
+    },
+    {
+      "qid": "Q4",
+      "question": "What fiscal deficit did the government target for 2025, and what does the draft 2026 budget project for 2025?",
+      "answer": "For 2025, the government targeted a reduction in the deficit to 3.9 percent of GDP [S04-02]. The draft 2026 budget projects the deficit will reach 4.3 percent of GDP in 2025, mainly reflecting a shortfall in oil revenues [S04-02].",
+      "answerable": true,
+      "retrieved_ids": [
+        "S07-04",
+        "S32-01",
+        "S06-02",
+        "S21-06",
+        "S04-02",
+        "S29-02"
+      ],
+      "cited_ids": [
+        "S04-02"
+      ],
+      "citations_valid": true,
+      "retrieval_hit": true,
+      "facts_in_context": 1.0,
+      "fact_recall": 1.0,
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "unsupported_claims": []
+    },
+    {
+      "qid": "Q5",
+      "question": "How does Pemex put pressure on Mexico's public finances?",
+      "answer": "Not stated in the report.",
+      "answerable": false,
+      "retrieved_ids": [
+        "S20-02",
+        "S21-06",
+        "S26-01",
+        "S26-02",
+        "S07-07",
+        "S19-06"
+      ],
+      "cited_ids": [],
+      "citations_valid": true,
+      "retrieval_hit": false,
+      "facts_in_context": 1.0,
+      "fact_recall": 0.0,
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "unsupported_claims": []
+    },
+    {
+      "qid": "Q6",
+      "question": "What overall financing gap would arise in the adverse scenario?",
+      "answer": "Not stated in the report.",
+      "answerable": false,
+      "retrieved_ids": [
+        "S08-04",
+        "S27-03",
+        "S33-03",
+        "S33-02",
+        "S34-01",
+        "S09-01"
+      ],
+      "cited_ids": [],
+      "citations_valid": true,
+      "retrieval_hit": true,
+      "facts_in_context": 0.0,
+      "fact_recall": 0.0,
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "unsupported_claims": []
+    },
+    {
+      "qid": "Q7",
+      "question": "How adequate are Mexico's gross international reserves?",
+      "answer": "Gross international reserves stood at US$232 billion (12.4 percent of GDP) at end-2024, which was adequate at 135 percent of the ARA metric and 310 percent of short-term debt at remaining maturity [S31-01]. Reserves increased further to US$249 billion by end-August 2025 [S31-02].",
+      "answerable": true,
+      "retrieved_ids": [
+        "S22-06",
+        "S23-05",
+        "S31-01",
+        "S26-01",
+        "S31-02",
+        "S25-04"
+      ],
+      "cited_ids": [
+        "S31-01",
+        "S31-02"
+      ],
+      "citations_valid": true,
+      "retrieval_hit": true,
+      "facts_in_context": 1.0,
+      "fact_recall": 1.0,
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "unsupported_claims": []
+    },
+    {
+      "qid": "Q8",
+      "question": "What is the banking system's Tier 1 capital ratio, and what is the regulatory threshold?",
+      "answer": "The Tier 1 capital ratio stood at 17.9 percent, with other reported figures at 18.0 percent and 18.8 percent [S07-11], and regulatory Tier 1 capital to risk-weighted assets was 17.9 percent in June 2025 [S24-01]. The regulatory threshold for the Tier 1 capital ratio is 6 percent [S07-11].",
+      "answerable": true,
+      "retrieved_ids": [
+        "S07-11",
+        "S24-01",
+        "S07-06",
+        "S07-08",
+        "S24-02",
+        "S31-02"
+      ],
+      "cited_ids": [
+        "S07-11",
+        "S24-01"
+      ],
+      "citations_valid": true,
+      "retrieval_hit": true,
+      "facts_in_context": 1.0,
+      "fact_recall": 1.0,
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "unsupported_claims": []
+    },
+    {
+      "qid": "Q9",
+      "question": "What does the report project for Mexican house prices in 2026?",
+      "answer": "Not stated in the report.",
+      "answerable": false,
+      "retrieved_ids": [
+        "S19-01",
+        "S19-04",
+        "S05-04",
+        "S27-03",
+        "S19-06",
+        "S27-01"
+      ],
+      "cited_ids": [],
+      "citations_valid": true,
+      "retrieval_hit": null,
+      "facts_in_context": null,
+      "fact_recall": null,
+      "faithfulness": 5,
+      "completeness": 5,
+      "relevance": 5,
+      "unsupported_claims": []
+    }
+  ]
+}

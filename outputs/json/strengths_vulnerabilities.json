@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "label": "Comfortable international reserve buffers",
+      "explanation": "Mexico has increased its reserve buffers, which remain adequate over the medium term and provide a key buffer against external shocks.",
+      "quote": "financial conditions have become more accommodative and the country's reserve buffers have increased.",
+      "page": 4,
+      "kind": "strength",
+      "quote_found": true,
+      "page_checked": 4,
+      "judge_supported": true,
+      "judge_comment": "The quote is accurately found on page 4 and supports both the label and the explanation."
+    },
+    {
+      "label": "Sound and resilient banking system",
+      "explanation": "The banking sector holds robust capital and liquidity positions and exhibits resilience against severe economic downturns.",
+      "quote": "Banks continue to have robust capital and liquidity positions. Stress tests indicate that the banking system remains resilient to a sharp economic slowdown",
+      "page": 9,
+      "kind": "strength",
+      "quote_found": true,
+      "page_checked": 9,
+      "judge_supported": true,
+      "judge_comment": "The quote is verbatim in the text on page 9 and fully supports the explanation regarding robust capital, liquidity, and resilience to downturns."
+    },
+    {
+      "label": "Favorable public external debt composition",
+      "explanation": "The composition of public external debt limits foreign exchange risks due to significant local-currency denomination and long maturities.",
+      "quote": "The composition of external debt remains favorable, with approximately 30 percent of public external debt denominated in pesos, thereby limiting exposure to exchange rate depreciation.",
+      "page": 13,
+      "kind": "strength",
+      "quote_found": true,
+      "page_checked": 13,
+      "judge_supported": true,
+      "judge_comment": "The exact quote is found on page 13 and supports the statement regarding limiting foreign exchange risks."
+    },
+    {
+      "label": "Steady sovereign capital market access",
+      "explanation": "Mexico retains an investment-grade credit rating with all major rating agencies and has maintained uninterrupted access to global financial markets.",
+      "quote": "Mexico retains investment grade with all major rating agencies and did not lose market access at any point in the last year.",
+      "page": 14,
+      "kind": "strength",
+      "quote_found": true,
+      "page_checked": 14,
+      "judge_supported": true,
+      "judge_comment": "The quote is found on page 14 and directly supports the label."
+    },
+    {
+      "label": "Sustainable public debt position",
+      "explanation": "Rigorous debt sustainability assessments confirm that Mexico's public debt remains sustainable with high probability.",
+      "quote": "Staff assesses Mexico's public debt to be sustainable with high probability.",
+      "page": 15,
+      "kind": "strength",
+      "quote_found": true,
+      "page_checked": 15,
+      "judge_supported": true,
+      "judge_comment": "The quote is found on page 15 and directly supports the label."
+    },
+    {
+      "label": "Flexible exchange rate regime",
+      "explanation": "Mexico maintains a flexible exchange rate regime that acts as a key absorber against external economic shocks.",
+      "quote": "The flexible exchange rate regime will continue to act as the key absorber of external shocks.",
+      "page": 43,
+      "kind": "strength",
+      "quote_found": true,
+      "page_checked": 43,
+      "judge_supported": true,
+      "judge_comment": "The quote is found on page 43 and directly supports the label."
+    },
+    {
+      "label": "Elevated external tail risks from trade",
+      "explanation": "Mexico faces heightened downside risks from potential increases in U.S. tariffs and uncertainty surrounding the USMCA review.",
+      "quote": "Mexico is exposed to risks from a larger-than-expected impact of U.S. tariffs and uncertainty regarding the upcoming USMCA review.",
+      "page": 5,
+      "kind": "vulnerability",
+      "quote_found": true,
+      "page_checked": 5,
+      "judge_supported": true,
+      "judge_comment": "The quote is found on page 5 and supports the label regarding US tariffs and USMCA risks."
+    },
+    {
+      "label": "Fiscal pressures from Pemex liabilities",
+      "explanation": "Pemex continues to exert pressure on fiscal accounts through large debt amortizations and accumulated supplier obligations.",
+      "quote": "Pemex continues to put pressure on fiscal accounts. In addition to budgetary support, recent losses have resulted in significant accumulation of debt with suppliers",
+      "page": 9,
+      "kind": "vulnerability",
+      "quote_found": true,
+      "page_checked": 9,
+      "judge_supported": true,
+      "judge_comment": "The quote is found on page 9 and supports the statement regarding debt amortizations and supplier obligations."
+    },
+    {
+      "label": "Upward drift in public debt trajectory",
+      "explanation": "The fiscal framework has allowed for an upward drift in public debt due to flexibility in setting targets and frequent use of escape clauses.",
+      "quote": "The framework has helped deliver fiscal discipline but has also allowed for an upward drift in public debt, as there is flexibility in setting fiscal targets",
+      "page": 13,
+      "kind": "vulnerability",
+      "quote_found": true,
+      "page_checked": 12,
+      "judge_supported": false,
+      "judge_comment": "The provided quote is actually found on page 12, not page 13 as claimed. While the text exists and matches the claim, the page citation is incorrect."
+    },
+    {
+      "label": "Institutional weaknesses and corruption threats",
+      "explanation": "The country contends with governance challenges, weak enforcement, and significant money laundering risks linked to organized crime.",
+      "quote": "Mexico faces significant money laundering threats associated with organized crime, cross-border financial flows, and widespread use of informal channels",
+      "page": 18,
+      "kind": "vulnerability",
+      "quote_found": true,
+      "page_checked": 17,
+      "judge_supported": true,
+      "judge_comment": "The quote is found on page 18 and supports the label."
+    },
+    {
+      "label": "Persistent supply-side growth bottlenecks",
+      "explanation": "Long-standing domestic structural deficiencies such as infrastructure gaps and informality continue to constrain potential output.",
+      "quote": "Long-standing supply-side constraints remain a key challenge to fostering higher growth.",
+      "page": 11,
+      "kind": "vulnerability",
+      "quote_found": true,
+      "page_checked": 11,
+      "judge_supported": true,
+      "judge_comment": "The quote is found on page 11 and supports the label."
+    },
+    {
+      "label": "Core inflation remaining above target range",
+      "explanation": "Rising core goods inflation has kept core inflation above the headline variability range and inflation expectations above target.",
+      "quote": "Core inflation has remained above the headline inflation variability range in recent months, even as headline inflation has eased",
+      "page": 8,
+      "kind": "vulnerability",
+      "quote_found": true,
+      "page_checked": 8,
+      "judge_supported": true,
+      "judge_comment": "The quote is found on page 8 and supports the label."
+    }
+  ]
+}

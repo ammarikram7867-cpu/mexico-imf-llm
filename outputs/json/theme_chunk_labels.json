@@ -1,0 +1,334 @@
+[
+  {
+    "cid": "S01-01",
+    "themes": []
+  },
+  {
+    "cid": "S01-02",
+    "themes": [
+      "Inflation & Prices",
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S01-03",
+    "themes": [
+      "Inflation & Prices",
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S02-01",
+    "themes": []
+  },
+  {
+    "cid": "S02-02",
+    "themes": []
+  },
+  {
+    "cid": "S03-01",
+    "themes": []
+  },
+  {
+    "cid": "S04-01",
+    "themes": [
+      "Inflation & Prices",
+      "Labor Market Dynamics"
+    ]
+  },
+  {
+    "cid": "S04-02",
+    "themes": [
+      "Inflation & Prices",
+      "Interest Rates & Credit",
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S04-03",
+    "themes": [
+      "Banking Capital & Liquidity",
+      "Systemic Financial Risk"
+    ]
+  },
+  {
+    "cid": "S05-01",
+    "themes": [
+      "Inflation & Prices",
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S05-02",
+    "themes": []
+  },
+  {
+    "cid": "S05-03",
+    "themes": []
+  },
+  {
+    "cid": "S05-04",
+    "themes": []
+  },
+  {
+    "cid": "S05-05",
+    "themes": []
+  },
+  {
+    "cid": "S06-01",
+    "themes": [
+      "Inflation & Prices",
+      "Interest Rates & Credit"
+    ]
+  },
+  {
+    "cid": "S06-02",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S06-03",
+    "themes": [
+      "Sovereign Debt",
+      "Inflation & Prices",
+      "Interest Rates & Credit"
+    ]
+  },
+  {
+    "cid": "S06-04",
+    "themes": [
+      "Interest Rates & Credit",
+      "Systemic Financial Risk"
+    ]
+  },
+  {
+    "cid": "S06-05",
+    "themes": []
+  },
+  {
+    "cid": "S07-01",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S07-02",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S07-03",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S07-04",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S07-05",
+    "themes": [
+      "Sovereign Debt",
+      "Inflation & Prices"
+    ]
+  },
+  {
+    "cid": "S07-06",
+    "themes": [
+      "Inflation & Prices",
+      "Interest Rates & Credit",
+      "Banking Capital & Liquidity"
+    ]
+  },
+  {
+    "cid": "S07-07",
+    "themes": [
+      "Systemic Financial Risk",
+      "Banking Capital & Liquidity",
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S07-08",
+    "themes": [
+      "Banking Capital & Liquidity",
+      "Systemic Financial Risk"
+    ]
+  },
+  {
+    "cid": "S07-09",
+    "themes": []
+  },
+  {
+    "cid": "S07-10",
+    "themes": [
+      "Sovereign Debt",
+      "Banking Capital & Liquidity",
+      "Systemic Financial Risk"
+    ]
+  },
+  {
+    "cid": "S07-11",
+    "themes": [
+      "Banking Capital & Liquidity"
+    ]
+  },
+  {
+    "cid": "S07-12",
+    "themes": []
+  },
+  {
+    "cid": "S08-01",
+    "themes": []
+  },
+  {
+    "cid": "S08-02",
+    "themes": []
+  },
+  {
+    "cid": "S08-03",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S08-04",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S08-05",
+    "themes": [
+      "Inflation & Prices",
+      "Interest Rates & Credit"
+    ]
+  },
+  {
+    "cid": "S08-06",
+    "themes": []
+  },
+  {
+    "cid": "S08-07",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S08-08",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S09-01",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S09-02",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S09-03",
+    "themes": []
+  },
+  {
+    "cid": "S10-01",
+    "themes": []
+  },
+  {
+    "cid": "S10-02",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S29-01",
+    "themes": []
+  },
+  {
+    "cid": "S29-02",
+    "themes": [
+      "Inflation & Prices",
+      "Interest Rates & Credit",
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S29-03",
+    "themes": [
+      "Banking Capital & Liquidity",
+      "Systemic Financial Risk"
+    ]
+  },
+  {
+    "cid": "S30-01",
+    "themes": []
+  },
+  {
+    "cid": "S31-01",
+    "themes": [
+      "Inflation & Prices",
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S31-02",
+    "themes": []
+  },
+  {
+    "cid": "S33-01",
+    "themes": []
+  },
+  {
+    "cid": "S33-02",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S33-03",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  },
+  {
+    "cid": "S33-04",
+    "themes": []
+  },
+  {
+    "cid": "S33-05",
+    "themes": []
+  },
+  {
+    "cid": "S33-06",
+    "themes": []
+  },
+  {
+    "cid": "S33-07",
+    "themes": []
+  },
+  {
+    "cid": "S33-08",
+    "themes": []
+  },
+  {
+    "cid": "S35-01",
+    "themes": []
+  },
+  {
+    "cid": "S35-02",
+    "themes": [
+      "Sovereign Debt"
+    ]
+  }
+]

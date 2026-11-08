@@ -1,0 +1,74 @@
+[
+  {
+    "field": "gdp_growth_forecast_pct",
+    "value": 1.0,
+    "period": "2025 projection",
+    "source_cid": "S19-01",
+    "id_as_returned": "S19-01",
+    "pdf_page": 32,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "reason_if_null": "",
+    "quote": "GDP 6.0 3.7 3.4 1.4 1.0 1.5 2.0 2.1 2.1 2.1"
+  },
+  {
+    "field": "headline_inflation_rate_pct",
+    "value": 3.7,
+    "period": "2025 projection",
+    "source_cid": "S19-04",
+    "id_as_returned": "S19-04",
+    "pdf_page": 32,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "reason_if_null": "",
+    "quote": "Consumer prices (end-of-period) 7.4 7.8 4.7 4.2 3.7 3.0 3.0 3.0 3.0 3.0"
+  },
+  {
+    "field": "central_bank_policy_rate_pct",
+    "value": 7.5,
+    "period": "2025 projection",
+    "source_cid": "S19-04",
+    "id_as_returned": "S19-04",
+    "pdf_page": 32,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "reason_if_null": "",
+    "quote": "Monetary policy rate 5.50 10.50 11.25 10.00 7.50 6.00 6.00 6.00 6.00 6.00"
+  },
+  {
+    "field": "non_performing_loan_ratio",
+    "value": 2.1,
+    "period": "June 2025",
+    "source_cid": "S24-01",
+    "id_as_returned": "S24-01",
+    "pdf_page": 37,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "reason_if_null": "",
+    "quote": "Nonperforming loans to total gross loans 2.2 2.6 2.0 2.1 2.1 2.0 2.1 June"
+  },
+  {
+    "field": "unemployment_rate_pct",
+    "value": 2.9,
+    "period": "2025 projection",
+    "source_cid": "S19-04",
+    "id_as_returned": "S19-04",
+    "pdf_page": 32,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "reason_if_null": "",
+    "quote": "National unemployment rate (annual average) 4.1 3.3 2.8 2.7 2.9 3.1 3.0 3.0 3.0 3.0"
+  },
+  {
+    "field": "tier_1_capital_ratio",
+    "value": 17.9,
+    "period": "June 2025",
+    "source_cid": "S24-01",
+    "id_as_returned": "S24-01",
+    "pdf_page": 37,
+    "quote_ok": true,
+    "number_in_quote": true,
+    "reason_if_null": "",
+    "quote": "Regulatory Tier 1 capital to risk-weighted assets 14.4 16.1 18.1 17.6 17.5 17.2 17.9 June"
+  }
+]
